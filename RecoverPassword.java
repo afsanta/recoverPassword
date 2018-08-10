@@ -1,6 +1,4 @@
 /*
- * University of Central Florida
- * CIS 3360 - Fall 2017
  * Author: Andres Santamaria
  */
 
